@@ -3,6 +3,8 @@
 **Objective: Analyzing sales data to derive actionable insights and strategies for improving sales performance**
 
 
+**Insights from E-Commerce Sales Analysis Project
+Based on the detailed analysis performed on the e-commerce sales data, here are some key insights and actionable recommendations:**
 
 1. **Top Categories**
 
