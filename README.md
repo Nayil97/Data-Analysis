@@ -1,3 +1,9 @@
+**E-Commerce Sales Analysis Portfolio Project**
+
+**Objective: Analyzing sales data to derive actionable insights and strategies for improving sales performance**
+
+
+
 1. **Top Categories**
 
 Insight: The top-performing product categories in terms of total sales are Home & Kitchen, Toys, and Clothing.
