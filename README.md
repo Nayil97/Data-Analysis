@@ -1,4 +1,4 @@
-# Customer Segmentation Data Analysis Project using Python
+# Customer Segmentation using Python
 ## Table of Contents
 - Project Overview
 - Objectives
